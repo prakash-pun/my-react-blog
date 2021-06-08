@@ -1,3 +1,3 @@
 # my-react-blog
 
-- [ ] first react.js blog
+- [ ] first react.js blog project
